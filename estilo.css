@@ -1,0 +1,38 @@
+body{background-color: black;}
+
+#Fundo{
+    margin-left: 40px;
+    background: url('imagens/backgorund.png');
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+    
+    
+}
+
+h1{ 
+    text-indent: 40px;
+    padding-top: 16px; 
+    
+}
+    
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    
+    list-style-position: inside;
+    line-height: 0.5;
+ 
+}
+
+#instagram{list-style-image:url("imagens/Insta.png");}
+
+
+#twitter{list-style-image:url("imagens/Twitter.png");}
+
+
+#youtube{list-style-image:url("imagens/Youtube.png");}
